@@ -1,4 +1,4 @@
-# Autonomous Maze-Traversing Robot
+# Autonomous Traversing Robot
 An archive of my work for [EG1311 Design and Make](https://nusmods.com/courses/EG1311/design-and-make) taken in NUS in AY22/23 Semester 1. 
 
 The final report is uploaded as a PDF File, this README.md is a summarized version of that.
