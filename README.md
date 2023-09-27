@@ -23,7 +23,7 @@ We had utilized multiple design prototypes for each component and a variation of
 
 <img width="535" alt="image" src="https://github.com/sp4ce-cowboy/autonomous-robot/assets/19762596/a3167165-694d-498a-85d2-771f407ed1a2">
 
-### 5 - Circuitry Diagram with [TinkerCAD](https://www.tinkercad.com) and Arduino Code
+### 5 - Circuitry Diagram with [TinkerCAD](https://www.tinkercad.com)
 <img width="600" alt="image" src="https://github.com/sp4ce-cowboy/autonomous-robot/assets/19762596/23919b99-8c18-420d-9d20-589f8b619962">
 
 
