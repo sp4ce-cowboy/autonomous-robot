@@ -33,5 +33,13 @@ We had utilized multiple design prototypes for each component and a variation of
 ### 7 - Conclusion
 The lessons we had learned along the way were of a multifaceted nature. On top of the directly affecting aspects of making the robot, such as Mechanical, Electrical, Software, Designing, we had also learned other crucial things like the importance of work delegation, the efficiency of simultaneous and concurrent development of prototypes to fully utilize all available manpower, the importance of accuracy and precision in design, and most importantly, the virtue of accepting, understanding, and learning from our mistakes with a positive mindset and approach such that we are able to improve on them on our path to eventual success. 
 
-## Some Notes
-- Video of maze completion and final video to be added later.
+## Prototypes
+
+### Prototype 1
+
+This prototype was to test the structural rigidity of the laser-cut wheels and wheel traction.
+
+https://github.com/sp4ce-cowboy/autonomous-robot/assets/19762596/35f4e7cc-61fa-48f7-a2c3-7ea03fb05a53
+
+
+
