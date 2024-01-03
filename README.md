@@ -1,7 +1,12 @@
 # Autonomous Robot
 An archive of my work for [EG1311 Design and Make](https://nusmods.com/courses/EG1311/design-and-make) taken in NUS in AY22/23 Semester 1. 
 
-<img src="https://github.com/sp4ce-cowboy/autonomous-robot/assets/19762596/35f4e7cc-61fa-48f7-a2c3-7ea03fb05a53" width="330"> <img src="https://github.com/sp4ce-cowboy/autonomous-robot/assets/19762596/402fb227-852a-40cb-a725-6d8637787708" width="435"> 
+<a>
+  <img src="https://github.com/sp4ce-cowboy/autonomous-robot/assets/19762596/35f4e7cc-61fa-48f7-a2c3-7ea03fb05a53" height=250" align="center"/>
+</a>
+<a>
+  <img src="https://github.com/sp4ce-cowboy/autonomous-robot/assets/19762596/402fb227-852a-40cb-a725-6d8637787708" height="250" align="center"/> 
+</a>
 
 
 ## The Project
