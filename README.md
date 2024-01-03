@@ -1,7 +1,7 @@
-# Autonomous Traversing Robot
+# Autonomous Robot
 An archive of my work for [EG1311 Design and Make](https://nusmods.com/courses/EG1311/design-and-make) taken in NUS in AY22/23 Semester 1. 
 
-https://github.com/sp4ce-cowboy/autonomous-robot/assets/19762596/35f4e7cc-61fa-48f7-a2c3-7ea03fb05a53
+<img src="https://github.com/sp4ce-cowboy/autonomous-robot/assets/19762596/35f4e7cc-61fa-48f7-a2c3-7ea03fb05a53" width="375"> <img src="https://github.com/sp4ce-cowboy/autonomous-robot/assets/19762596/402fb227-852a-40cb-a725-6d8637787708" width="500"> 
 
 The final report is uploaded as a PDF File, this README.md is a summarized version of that.
 
@@ -35,13 +35,13 @@ We had utilized multiple design prototypes for each component and a variation of
 ### 7 - Conclusion
 The lessons we had learned along the way were of a multifaceted nature. On top of the directly affecting aspects of making the robot, such as Mechanical, Electrical, Software, Designing, we had also learned other crucial things like the importance of work delegation, the efficiency of simultaneous and concurrent development of prototypes to fully utilize all available manpower, the importance of accuracy and precision in design, and most importantly, the virtue of accepting, understanding, and learning from our mistakes with a positive mindset and approach such that we are able to improve on them on our path to eventual success. 
 
-## Prototypes
+### 8 – Final Video Submission
 
-### Prototype 1
+<img src="https://github.com/sp4ce-cowboy/autonomous-robot/assets/19762596/cf391627-ac9e-4996-a5bc-0062e7e760fa">
 
-This prototype was to test the structural rigidity of the laser-cut wheels and wheel traction.
 
-https://github.com/sp4ce-cowboy/autonomous-robot/assets/19762596/35f4e7cc-61fa-48f7-a2c3-7ea03fb05a53
+
+
 
 
 
