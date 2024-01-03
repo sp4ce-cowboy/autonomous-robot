@@ -3,9 +3,10 @@ An archive of my work for [EG1311 Design and Make](https://nusmods.com/courses/E
 
 <img src="https://github.com/sp4ce-cowboy/autonomous-robot/assets/19762596/35f4e7cc-61fa-48f7-a2c3-7ea03fb05a53" width="330"> <img src="https://github.com/sp4ce-cowboy/autonomous-robot/assets/19762596/402fb227-852a-40cb-a725-6d8637787708" width="435"> 
 
-The final report is uploaded as a PDF File, this README.md is a summarized version of that.
 
 ## The Project
+
+_The final report is uploaded as a PDF File, below are the summarized components._
 
 ### 0 - Overview
 For this project, our team was tasked with creating a robot that was able to traverse a pre-defined obstacle course, and this report articulates all such efforts and measures undertaken in the design and engineering process, including lessons that we had learnt during the process of developing this robot. This report encapsulates the whole process of development and elaborates on all the various areas of engineering considerations that were involved, inclusive of but not limited to – Electrical, Mechanical, Software, and Design. In this report, we shall attempt to document our process, from the template project at the very beginning, to the final run of the robot.
