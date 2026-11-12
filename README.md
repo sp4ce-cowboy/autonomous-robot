@@ -9,8 +9,8 @@ servo-driven arm, iterated through ten prototypes. For NUS EG1311 *Design and Ma
 of six.
 
 [![Arduino](https://img.shields.io/badge/Arduino-Uno-00878F?logo=arduino&logoColor=white)](https://github.com/sp4ce-cowboy/autonomous-robot/blob/cba5c551a1c974923474edaca49e4b6509820a56/sketch_sep28a.ino#L26-L54)
-[![Fusion 360](https://img.shields.io/badge/Fusion%20360-CAD-F26C22?logo=autodesk&logoColor=white)](#design)
-[![Tinkercad](https://img.shields.io/badge/Tinkercad-circuits-1477D1?logo=tinkercad&logoColor=white)](#design)
+[![Fusion 360](https://img.shields.io/badge/Fusion%20360-F26C22?logo=autodesk&logoColor=white)](#design)
+[![Tinkercad](https://img.shields.io/badge/Tinkercad-1477D1?logo=tinkercad&logoColor=white)](#design)
 
 </div>
 
