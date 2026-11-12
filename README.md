@@ -28,7 +28,6 @@ of six.
 |---|---|
 | **What** | A robot that drives an obstacle course (a slope and obstacles), stops short of a wall without touching it, and delivers a ping-pong ball over the wall |
 | **Context** | NUS [EG1311](https://nusmods.com/courses/EG1311/design-and-make) *Design and Make*, AY2022/23 Semester 1 (Aug – Nov 2022) |
-| **Team** | Yuancheng Elijah Tan, Rubesh Suresh, Lim Qin Jie, Khairul Haziq B Mohamad Hisham, Paul Joash Tan and Tsang Kim Laetisha Jane Vanjoo |
 | **Stack** | Arduino Uno in C++, an ultrasonic sensor, four geared DC motors, a servo; laser-cut acrylic, cardboard; Fusion 360 and Tinkercad |
 
 <img src="https://github.com/sp4ce-cowboy/autonomous-robot/assets/19762596/35f4e7cc-61fa-48f7-a2c3-7ea03fb05a53" height="250"> <img src="https://github.com/sp4ce-cowboy/autonomous-robot/assets/19762596/402fb227-852a-40cb-a725-6d8637787708" height="250">
@@ -53,9 +52,13 @@ start line.
 
 <a id="design"></a>
 
-| Final robot | Fusion 360 render | Tinkercad circuit |
-|---|---|---|
-| <img src="https://github.com/sp4ce-cowboy/autonomous-robot/assets/19762596/9b19ec15-8279-49ba-b3f9-20cf8a05c292" width="300"> | <img src="https://github.com/sp4ce-cowboy/autonomous-robot/assets/19762596/a3167165-694d-498a-85d2-771f407ed1a2" width="260"> | <img src="https://github.com/sp4ce-cowboy/autonomous-robot/assets/19762596/23919b99-8c18-420d-9d20-589f8b619962" width="300"> |
+From the report's appendix:
+
+| Tinkercad circuit | Fusion 360 model |
+|---|---|
+| <img src="docs/images/circuit.png" width="380" alt="Tinkercad circuit: Arduino Uno, breadboard, ultrasonic sensor, servo, four DC motors, 9 V battery"> | <img src="docs/images/cad-render.jpg" width="420" alt="Fusion 360 render of the final robot"> |
+| **Wheel drawing** (8-spoke, laser-cut acrylic) | **The final robot** |
+| <img src="docs/images/wheel-drawing.png" width="420" alt="Dimensioned drawing of the 8-spoke wheel"> | <img src="docs/images/final-robot.jpg" width="220" alt="The final robot"> |
 
 The specification, dimensioned drawings and the final run's video are in
 [README-ORIGINAL.md](README-ORIGINAL.md).
