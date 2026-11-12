@@ -12,9 +12,6 @@ of six.
 [![Fusion 360](https://img.shields.io/badge/Fusion%20360-CAD-F26C22?logo=autodesk&logoColor=white)](#design)
 [![Tinkercad](https://img.shields.io/badge/Tinkercad-circuits-1477D1?logo=tinkercad&logoColor=white)](#design)
 
-![Team](https://img.shields.io/badge/team-6-555?style=flat-square)
-![Prototypes](https://img.shields.io/badge/prototypes-10-555?style=flat-square)
-
 </div>
 
 > [!NOTE]
@@ -72,10 +69,6 @@ The specification, dimensioned drawings and the final run's video are in
 | **CAD and fabrication** | Fusion 360 model, dimensioned drawings, laser-cut acrylic wheels | [Fusion 360](https://www.autodesk.com/products/fusion-360/overview) |
 | **Circuit design** | Tinkercad circuit for the Uno, motors, sensor and servo | [Tinkercad Circuits](https://www.tinkercad.com/circuits) |
 | **Teamwork** | Six people building the vehicle and the arm in parallel on separate Arduinos, then merging | |
-
-## Coding stats
-
-None: the sketch is 54 lines, and the repo was put on GitHub in Sep 2023 as an archive.
 
 ## On our resumes
 
