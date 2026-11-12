@@ -5,8 +5,8 @@
 **A four-wheeled robot that crosses an obstacle course on its own and lobs a ping-pong ball over
 a wall.**<br>
 Arduino Uno, four geared DC motors on laser-cut acrylic wheels, an ultrasonic sensor and a
-servo-driven arm, iterated through ten prototypes. My first engineering design project at NUS,
-for EG1311 *Design and Make*, in a team of six.
+servo-driven arm, iterated through ten prototypes. For NUS EG1311 *Design and Make*, in a team
+of six.
 
 [![Arduino](https://img.shields.io/badge/Arduino-Uno-00878F?logo=arduino&logoColor=white)](https://github.com/sp4ce-cowboy/autonomous-robot/blob/cba5c551a1c974923474edaca49e4b6509820a56/sketch_sep28a.ino#L26-L54)
 [![Fusion 360](https://img.shields.io/badge/Fusion%20360-CAD-F26C22?logo=autodesk&logoColor=white)](#design)
@@ -30,7 +30,7 @@ for EG1311 *Design and Make*, in a team of six.
 | | |
 |---|---|
 | **What** | A robot that drives an obstacle course (a slope and obstacles), stops short of a wall without touching it, and delivers a ping-pong ball over the wall |
-| **Context** | NUS [EG1311](https://nusmods.com/courses/EG1311/design-and-make) *Design and Make*, AY2022/23 Semester 1 (Aug – Nov 2022), Group B15 Team 2 |
+| **Context** | NUS [EG1311](https://nusmods.com/courses/EG1311/design-and-make) *Design and Make*, AY2022/23 Semester 1 (Aug – Nov 2022) |
 | **Team** | Yuancheng Elijah Tan, Rubesh Suresh, Lim Qin Jie, Khairul Haziq B Mohamad Hisham, Paul Joash Tan and Tsang Kim Laetisha Jane Vanjoo |
 | **Stack** | Arduino Uno in C++, an ultrasonic sensor, four geared DC motors, a servo; laser-cut acrylic, cardboard; Fusion 360 and Tinkercad |
 
