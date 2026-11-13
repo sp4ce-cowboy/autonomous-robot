@@ -63,7 +63,7 @@ From the report's appendix:
 The specification, dimensioned drawings and the final run's video are in
 [README-ORIGINAL.md](README-ORIGINAL.md).
 
-## Skills shown
+## Skills covered
 
 | Skill | Where it shows (click the links for the code) | Docs |
 |---|---|---|
